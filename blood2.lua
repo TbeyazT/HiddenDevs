@@ -8,6 +8,9 @@ local players = game:GetService("Players")
 local debris = game:GetService("Debris")
 
 --asel_aselarya burdaydı 🙄
+--[[
+THİS SCRİPT HANDLES BLOOD FOR THE GAME 
+--]]
 
 local modulesFolder = replicatedStorage:WaitForChild("Modules")
 local remotesFolder = replicatedStorage
