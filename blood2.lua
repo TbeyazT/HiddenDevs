@@ -10,6 +10,7 @@ local debris = game:GetService("Debris")
 --asel_aselarya burdaydı 🙄
 --[[
 THİS SCRİPT HANDLES BLOOD FOR THE GAME 
+it does spawns blood with hit detection when blood hits it makes blood tween to stop with the hit detection future
 --]]
 
 local modulesFolder = replicatedStorage:WaitForChild("Modules")
